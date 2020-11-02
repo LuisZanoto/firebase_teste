@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "937159503010",
+    "firebase_url": "https://app-cafe-fire.firebaseio.com",
+    "project_id": "app-cafe-fire",
+    "storage_bucket": "app-cafe-fire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937159503010:android:9323d1716e8615de92bbfb",
+        "android_client_info": {
+          "package_name": "com.example.firebase_teste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937159503010-mnhdk84mhnj7t1e3dj0kcn2kic45j5nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnOXovUoiPhrOICv1XXzCzxuxCVhR6Z10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937159503010-mnhdk84mhnj7t1e3dj0kcn2kic45j5nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
